@@ -1,0 +1,12 @@
+#backimg{
+    background-image: url('./mealdb-resources-main/images/banner_1.png');
+    background-size: cover;
+    color: whitesmoke;
+    padding: 100px;
+}
+
+@media screen and (max-width: 780px) {
+   #backimg{
+    padding: 0;
+   }
+  }
